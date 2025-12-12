@@ -20,7 +20,7 @@ A secure ASP.NET Web Forms application for user registration and login with sess
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<https://github.com/sivashanmugam032004>/<https://github.com/sivashanmugam032004/User-Authentication-Portal/tree/main>.git
 2.Open the solution in Visual Studio.
 
 3.Update the connection string in Login.aspx.cs and registration.aspx.cs to point to your SQL Server.
