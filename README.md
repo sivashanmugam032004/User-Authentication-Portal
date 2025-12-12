@@ -16,3 +16,20 @@ A secure ASP.NET Web Forms application for user registration and login with sess
 - SQL Server
 - HTML, CSS, JavaScript
 - ADO.NET
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+2.Open the solution in Visual Studio.
+
+3.Update the connection string in Login.aspx.cs and registration.aspx.cs to point to your SQL Server.
+
+4.Build and run the project.
+
+5.Access the login page at Login.aspx.
+
+
+Author
+Sivashanmugam M
+Email: sivamurugan032004@gmail.com
